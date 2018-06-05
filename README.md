@@ -1,7 +1,7 @@
 # Sixteenbit RetroPie Image
 
-[Installation](#Installation)
-[Manually build the image](#Manually-build-the-image)
+- [Installation](#installation)
+- [Manually build the image](#manually-build-the-image)
 
 ## Installation
 
