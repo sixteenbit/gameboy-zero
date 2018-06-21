@@ -1,0 +1,2 @@
+ssid="NETWORK_NAME"
+psk="NETWORK_PASSWORD"
